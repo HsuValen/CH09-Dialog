@@ -63,7 +63,7 @@ public class M0905 extends AppCompatActivity implements View.OnClickListener {
 //                mTxtResult.setText(getString(R.string.m0905_ans) +
 //                        getString(R.string.m0905_t001) +
 //                        edtUserName.getText().toString() + "\n" +
-//                        getString(R.string.m0905_t002)+edtPassword.getText().toString() );  //
+//                        getString(R.string.m0905_t002)+edtPassword.getText().toString() ); 123  //
                 mLoginDlg.cancel();
                 break;
 
